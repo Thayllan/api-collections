@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ac89b52-99c6-4cf0-813c-bb741d6c761d" name="Changes" comment="Created TestIntArray.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/TestIntArrayOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/TesteArrayString.kt" afterDir="false" />
+    <list default="true" id="3ac89b52-99c6-4cf0-813c-bb741d6c761d" name="Changes" comment="Created TesteArrayString.kt and TestIntArrayOf.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/TesteDoubleArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <command value="mvn failsafe:verify" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteArrayStringKt">
+  <component name="RunManager" selected="Kotlin.TesteDoubleArrayKt">
     <configuration name="TestIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TestIntArrayOfKt" />
       <module name="consoleApp" />
@@ -74,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TesteDoubleArrayKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteIntArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TesteIntArrayKt" />
       <module name="consoleApp" />
@@ -83,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
         <item itemvalue="Kotlin.TestIntArrayOfKt" />
         <item itemvalue="Kotlin.TesteIntArrayKt" />
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658262096559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created TesteArrayString.kt and TestIntArrayOf.kt">
+      <created>1658856851220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658856851220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Project" />
     <MESSAGE value="Created TestIntArray.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created TestIntArray.kt" />
+    <MESSAGE value="Created TesteArrayString.kt and TestIntArrayOf.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created TesteArrayString.kt and TestIntArrayOf.kt" />
   </component>
 </project>

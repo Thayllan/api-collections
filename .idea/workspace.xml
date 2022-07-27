@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ac89b52-99c6-4cf0-813c-bb741d6c761d" name="Changes" comment="file settings">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/TesteColecoesMutaveis.kt" afterDir="false" />
+    <list default="true" id="3ac89b52-99c6-4cf0-813c-bb741d6c761d" name="Changes" comment="Add TesteColecoesMutaveis.kt listas mutável">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/BigDecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/FuncoesExtendidas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/Repositorio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalInnovation/collections/TesteMutavelMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +67,14 @@
       <command value="mvn failsafe:help" />
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteColecoesMutaveisKt">
+  <component name="RunManager" selected="Kotlin.TesteListKt">
+    <configuration name="FuncoesExtendidasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.FuncoesExtendidasKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TestMapKt" />
       <module name="consoleApp" />
@@ -85,15 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteOperacoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TesteOperacoesKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TesteSetKt" />
+    <configuration name="TesteMutavelMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.collections.TesteMutavelMapKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteListKt" />
+        <item itemvalue="Kotlin.TesteFuncoesExtendidasKt" />
+        <item itemvalue="Kotlin.TesteMutavelMapKt" />
         <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TestMapKt" />
-        <item itemvalue="Kotlin.TesteSetKt" />
-        <item itemvalue="Kotlin.TesteListKt" />
-        <item itemvalue="Kotlin.TesteOperacoesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658863816777</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add TesteColecoesMutaveis.kt listas mutável">
+      <created>1658945836876</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945836876</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +231,7 @@
     <MESSAGE value="Created TesteSet.kt" />
     <MESSAGE value="Created TestMap.kt" />
     <MESSAGE value="file settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="file settings" />
+    <MESSAGE value="Add TesteColecoesMutaveis.kt listas mutável" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TesteColecoesMutaveis.kt listas mutável" />
   </component>
 </project>
